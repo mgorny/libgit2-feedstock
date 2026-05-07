@@ -5,7 +5,7 @@
 
 [workspace]
 name = "libgit2-feedstock"
-version = "3.61.2"  # conda-smithy version used to generate this file
+version = "3.61.3.dev1+g7d03432e1"  # conda-smithy version used to generate this file
 description = "Pixi configuration for conda-forge/libgit2-feedstock"
 authors = ["@conda-forge/libgit2"]
 channels = ["conda-forge"]
